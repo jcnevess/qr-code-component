@@ -27,8 +27,8 @@ Desktop version:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jcnevess/qr-code-component)
-- Live Site URL: [Add live site URL here](https://jcnevess.github.io/qr-code-component)
+- [Solution URL](https://github.com/jcnevess/qr-code-component)
+- [Live Site URL](https://jcnevess.github.io/qr-code-component)
 
 ## My process
 
@@ -36,7 +36,7 @@ Desktop version:
 - HTML, CSS;
 - eleventy.js;
 
-### What I learnedhttps://github.com/jcnevess/qr-code-component
+### What I learned
 This was my first time using `min-content` to set the width. It was very helpful to make the container div the size of the image, which is fixed.
 ```css 
 .card {
